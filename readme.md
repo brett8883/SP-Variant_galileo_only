@@ -12,11 +12,13 @@ NO OTHER CHANGES
 ===
 
 Notes From the Author:
-• Compiled by request to have no changes from factory defaults other than galileo reception enabled 
-• Stock + Galileo
+- Compiled by request to have no changes from factory defaults other than galileo reception enabled
+
+- Stock + Galileo
 ===
 
 Firmware Compatibility:
+
 To use this Custom firmware, your Mavic Pro/Platinum MUST BE ON STOCK 01.04.0300 FIRMWARE.
 
 ===
